@@ -1,2 +1,3 @@
 Personal development notes.
 
+Goal: learn the Git workflow step by step.
