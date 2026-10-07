@@ -5,7 +5,7 @@
 
 ## Description
 
-A small starter web project used to practice the Git and GitHub workflow: commits, staging, branches, remotes, and history.
+changed.
 
 ## Technologies
 
