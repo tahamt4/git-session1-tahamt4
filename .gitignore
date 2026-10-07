@@ -1,0 +1,8 @@
+# ignore local environment file
+local.env
+
+# ignore all .log files
+*.log
+
+# do not ignore important.log
+!important.log
